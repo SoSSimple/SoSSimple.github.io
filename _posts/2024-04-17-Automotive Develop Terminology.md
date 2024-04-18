@@ -5,7 +5,7 @@ categories: [ETC]
 tags: [ETC]
 ---
 
-<img align = "left" src="{{site.url}}\images\2024-04-17-images_test\13423_13889_4827.png" alt="13423_13889_4827" style="zoom:50%;" />
+<img align = "left" src="{{site.url}}/images/2024-04-17-images_test/13423_13889_4827.png" alt="13423_13889_4827" style="zoom:50%;" />
 
 ## 개발 단계 용어 정리 [국내 기준]
 FA-1 ▷ FA-2 ▷ T1 ▷ P1 ▷ T2 ▷ P2 ▷ M1 ▷ M2 ▷ SOP{}
@@ -72,4 +72,4 @@ EPC (Early Production Containment Plan)는 초기 양산 불량 봉쇄조치 계
 
 
 
-<img align = "left" src="{{site.url}}\images\2024-04-17-images_test\2018030400014_0.png" alt="2018030400014_0" style="zoom:80%;" />
+<img align = "left" src="{{site.url}}/images/2024-04-17-images_test/2018030400014_0.png" alt="2018030400014_0" style="zoom:80%;" />
