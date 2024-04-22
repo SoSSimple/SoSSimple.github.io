@@ -1,8 +1,14 @@
 ---
-title: 자동차 개발 단계 용어 정리 및 Gate Review 단계별 요구사항
-date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [ETC]
-tags: [ETC]
+layout: page
+titile: "Automotive Develop Terminology"
+author_profile: true
+categories:
+  - ETC
+tags: ETC
+toc: true
+toc_sticky: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 <img align = "left" src="{{site.url}}/images/2024-04-17-images_test/13423_13889_4827.png" alt="13423_13889_4827" style="zoom:50%;" />

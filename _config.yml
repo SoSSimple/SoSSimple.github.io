@@ -189,6 +189,7 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+      show_date: ture
   - scope:
       path: assets/js/dist
     values:
@@ -224,3 +225,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+category_list: [AUTOSAR, AUTOSAR-Spec, Educated, ETC]
