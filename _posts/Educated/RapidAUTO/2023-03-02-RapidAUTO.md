@@ -9,12 +9,11 @@ toc_sticky: true
 sidebar:
     nav: "sidebar-category"
 ---
-<center> **A-SPICE, ISO 26262, AUTOSAR 프로젝트 실무자를 위한** </center>
-<center> **차량 SW 설계 교육** </center>
+# <center>A-SPICE, ISO 26262, AUTOSAR<br>프로젝트 실무자를 위한 차량 SW 설계 교육</center>
 
 # Overview
 ![Imgur](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZZ6_8elFnh2R37GyZoOtDTvmYSWmHt_HPQ7ly66ibs9DwIPCRmgt6x36zo59Lhq0qSoSyuShKpMzqEyG5LpRpR4rw3BJ-4Uiw)
-<center> **RapidAUTO** </center>
+<center>RapidAUTO</center>
 
 # System Requirements Analysis
 [System Requirements Analysis]({{site.url}}/educated/autosar/system/System-Requirements-Analysis)
